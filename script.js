@@ -42,7 +42,7 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "Hứa lần sau ko trêu nữa",
+    "Không bao giờ
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
